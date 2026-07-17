@@ -1,0 +1,11 @@
+1;Red Dead Redemption 2;PlayStation 4;336.0;10.0
+2;Hades;PlayStation 5;125.0;9.0
+3;War Thunder;PC;397.0;10.0
+4;World of Warships Legends;PlayStation5;70.0;9.0
+5;GTA V;PlayStation 4;558.0;10.0
+6;World of Warships;PC;40.0;10.0
+7;Call of Duty Modern Warfare;PlayStation 4;180.0;10.0
+8;Spider-Man;PlayStation 4;250.0;10.0
+9;Enlisted;PlayStation 5;380.0;10.0
+10;CUPHEAD;PlayStation 5;1.0;4.0
+11;Star Wars Battlefront 2;PlayStation 4;670.0;10.0
